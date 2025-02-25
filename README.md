@@ -33,4 +33,6 @@ I'm teaching myself software development through online resources... because com
   </tr>
 </table>
 
+<hr />
+
 > *"Passion raises a man not only above himself, but also above the bounds of his mortality and earthliness, and by the very act of raising him, it destroys him."*

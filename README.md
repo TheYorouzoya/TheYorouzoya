@@ -1,7 +1,9 @@
 ## Hi, I'm Ratnesh!
 
-🎓 What I'm working on right now:
+What I'm working on right now:
 - 🚀 Parallel Programming in Scala
+
+🎓 [Coursework](https://github.com/TheYorouzoya/CS-Coursework) I've done so far
 
 <table>
   <tr>

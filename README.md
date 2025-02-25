@@ -10,17 +10,27 @@ I'm teaching myself software development through online resources... because com
 
 ### 🖥️ A few courses/projects I've had some fun with:
 <table>
-  <th>
+  <thead>
     <tr>
-      <td>
-        <p align="center">NAND2Tetris</p>
-      </td>
+      <th width="50%"> Hack/Jack Computer System</th>
+      <th width="50%">CSQuest: A Hack Game</th>
     </tr>
-  </th>
+  </thead>
   <tr>
-    <td><a href="https://github.com/TheYorouzoya/nand2tetris/tree/main/CSQuest"><img src="https://github.com/TheYorouzoya/nand2tetris/raw/main/docimages/game-level-2.gif" /></a></td>
     <td><a href="https://github.com/TheYorouzoya/nand2tetris"><img src="https://github.com/TheYorouzoya/nand2tetris/raw/main/docimages/hack-cpu.png" /></a></td>
+    <td><a href="https://github.com/TheYorouzoya/nand2tetris/tree/main/CSQuest"><img src="https://github.com/TheYorouzoya/nand2tetris/raw/main/docimages/game-level-2.gif" /></a></td>
   </tr>
 </table>
 
-> <sub>*"Passion raises a man not only above himself, but also above the bounds of his mortality and earthliness, and by the very act of raising him, it destroys him."*</sub>
+<table>
+  <thead>
+    <tr>
+      <th>IronLogs: A Workout Journaling App</th>
+    </tr>
+  </thead>
+  <tr>
+    <td><a href="https://github.com/TheYorouzoya/ironlogs"><img src="https://github.com/TheYorouzoya/ironlogs/raw/main/docimages/responsive.png" /></a></td>
+  </tr>
+</table>
+
+> *"Passion raises a man not only above himself, but also above the bounds of his mortality and earthliness, and by the very act of raising him, it destroys him."*

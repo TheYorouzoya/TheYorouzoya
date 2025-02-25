@@ -21,7 +21,7 @@ I'm teaching myself software development through online resources... because com
     <td><a href="https://github.com/TheYorouzoya/nand2tetris/tree/main/CSQuest"><img src="https://github.com/TheYorouzoya/nand2tetris/raw/main/docimages/game-level-2.gif" /></a></td>
   </tr>
   <tr>
-    <td>Building a whole computer from scratch, starting all the way down from logic gates to implementing a compiler for a high-level object-oriented programming language. This course made me feel like I could do anything. It's the most fun I've had in my learning journey so far.</td>
+    <td>Building a whole computer from scratch, starting all the way down from logic gates to implementing a compiler for a high-level object-oriented programming language. This course made me feel like I could do anything.</td>
     <td>Now that we've built a computer, why not make a game on it? And so we have this small game on a small instruction ROM (32k) and even smaller RAM (8k).</td>
   </tr>
 </table>
@@ -34,6 +34,9 @@ I'm teaching myself software development through online resources... because com
   </thead>
   <tr>
     <td><a href="https://github.com/TheYorouzoya/ironlogs"><img src="https://github.com/TheYorouzoya/ironlogs/raw/main/docimages/responsive.png" /></a></td>
+  </tr>
+  <tr>
+    <td>Made as a Capstone Project for the CS50web course, this is a terribly written single-page application to log, track, and analyze workouts in a journal format. The most challenging part here was to get the single-page functionality working with only vanilla Javascript.</td>
   </tr>
 </table>
 

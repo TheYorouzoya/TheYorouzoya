@@ -9,8 +9,8 @@ I'm teaching myself software development through online resources... because com
 🎓 [Coursework](https://github.com/TheYorouzoya/CS-Coursework) I've done so far
 
 ### 🖥️ A few courses/projects I've had some fun with:
-<table layout="fixed">
-  <th width="500px">
+<table>
+  <th>
     <tr>
       <td>
         <p align="center">NAND2Tetris</p>

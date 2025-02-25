@@ -20,6 +20,10 @@ I'm teaching myself software development through online resources... because com
     <td><a href="https://github.com/TheYorouzoya/nand2tetris"><img src="https://github.com/TheYorouzoya/nand2tetris/raw/main/docimages/hack-cpu.png" /></a></td>
     <td><a href="https://github.com/TheYorouzoya/nand2tetris/tree/main/CSQuest"><img src="https://github.com/TheYorouzoya/nand2tetris/raw/main/docimages/game-level-2.gif" /></a></td>
   </tr>
+  <tr>
+    <td>Building a whole computer from scratch, starting all the way down from logic gates to implementing a compiler for a high-level object-oriented programming language. This course made me feel like I could do anything. It's the most fun I've had in my learning journey so far.</td>
+    <td>Now that we've built a computer, why not make a game on it? And so we have this small game on a small instruction ROM (32k) and even smaller RAM (8k).</td>
+  </tr>
 </table>
 
 <table>

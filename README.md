@@ -5,7 +5,7 @@ I'm teaching myself software development through online resources... because com
 ⏱️ What I'm working on right now:
 - 🚀 Spring Boot Redis Cache implementation in the [Financial Manager App Backend](https://github.com/TheYorouzoya/financial-manager),
 - 📁 [LeetCode 75 (50/75)](https://leetcode.com/u/TheYorouzoya)
-- Pub/Sub Architecture in RabbitMQ at [Boot.dev](https://www.boot.dev/courses/learn-pub-sub-rabbitmq)
+- 💬 Pub/Sub Architecture in RabbitMQ at [Boot.dev](https://www.boot.dev/courses/learn-pub-sub-rabbitmq)
 
 🎓 [Coursework](https://github.com/TheYorouzoya/CS-Coursework) I've done so far
 

@@ -41,6 +41,26 @@ I'm teaching myself software development through online resources... because com
   </tr>
 </table>
 
+<table>
+  <thead>
+    <tr>
+      <th width=50%>Boot.dev Projects</th>
+      <th width=50%>My Boot.dev Profile</th>
+    </tr>
+  </thead>
+  <tr>
+    <td align="left">
+    - <a href="https://github.com/TheYorouzoya/boot-dev-golang/tree/main/Chirpy">Chipry:</a> A backend server in Go built during the Learn HTTP Clients and Learn HTTP Servers courses.<br/>
+    - <a href="https://github.com/TheYorouzoya/boot-dev-golang/tree/main/pokedex">Pokedex:</a> A CLI pokedex written in Go to do Pokemon stuff
+    </td>
+    <td>
+      <p align="center">
+        <img href="https://www.boot.dev/u/theyorouzoya"  src="https://api.boot.dev/v1/users/public/d23565ec-e05d-46e8-9c7f-d05fb13b793b/thumbnail" >
+      </p>
+    </td>
+  </tr>
+</table>
+
 <hr />
 
 > *"Passion raises a man not only above himself, but also above the bounds of his mortality and earthliness, and by the very act of raising him, it destroys him."*

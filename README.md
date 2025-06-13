@@ -45,7 +45,7 @@ I'm teaching myself software development through online resources... because com
   <thead>
     <tr>
       <th width=50%>Boot.dev Projects</th>
-      <th width=50%>My Boot.dev Profile</th>
+      <th width=50%><a href="https://www.boot.dev/u/theyorouzoya">My Boot.dev Profile</a></th>
     </tr>
   </thead>
   <tr>

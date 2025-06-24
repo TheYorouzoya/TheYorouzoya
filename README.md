@@ -3,9 +3,9 @@
 I'm teaching myself software development through online resources... because computers are cool, I guess. I mean, really, tens of thousands of transistors squeezed onto the width of a human hair, on a chip that can compute billions of instructions per second. Amazing stuff!
 
 ⏱️ What I'm working on right now:
-- 🚀 Testing and Documentation for [Financial Manager App Backend](https://github.com/TheYorouzoya/financial-manager),
+- 🚀 A personal portfolio website using Three.js,
 - 📁 [LeetCode 75 (50/75)](https://leetcode.com/u/TheYorouzoya)
-- 💬 Pub/Sub Architecture in RabbitMQ at [Boot.dev](https://www.boot.dev/courses/learn-pub-sub-rabbitmq)
+- 💬 Rolling an HTTP server from scratch in go at [Boot.dev](https://www.boot.dev/courses/learn-http-protocol-golang)
 
 🎓 [Coursework](https://github.com/TheYorouzoya/CS-Coursework) I've done so far
 
@@ -52,6 +52,7 @@ I'm teaching myself software development through online resources... because com
     <td align="left">
     - <a href="https://github.com/TheYorouzoya/boot-dev-golang/tree/main/Chirpy">Chipry:</a> A backend server in Go built during the Learn HTTP Clients and Learn HTTP Servers courses.<br/>
     - <a href="https://github.com/TheYorouzoya/boot-dev-golang/tree/main/pokedex">Pokedex:</a> A CLI pokedex written in Go to do Pokemon stuff
+    - <a href="https://github.com/TheYorouzoya/boot-dev-ai-agent">AI Agent:</a> An AI agent written in Python using the Google Gemini API.
     </td>
     <td>
       <p align="center">

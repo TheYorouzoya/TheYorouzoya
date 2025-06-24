@@ -51,7 +51,7 @@ I'm teaching myself software development through online resources... because com
   <tr>
     <td align="left">
     - <a href="https://github.com/TheYorouzoya/boot-dev-golang/tree/main/Chirpy">Chipry:</a> A backend server in Go built during the Learn HTTP Clients and Learn HTTP Servers courses.<br/>
-    - <a href="https://github.com/TheYorouzoya/boot-dev-golang/tree/main/pokedex">Pokedex:</a> A CLI pokedex written in Go to do Pokemon stuff
+    - <a href="https://github.com/TheYorouzoya/boot-dev-golang/tree/main/pokedex">Pokedex:</a> A CLI pokedex written in Go to do Pokemon stuff<br/>
     - <a href="https://github.com/TheYorouzoya/boot-dev-ai-agent">AI Agent:</a> An AI agent written in Python using the Google Gemini API.
     </td>
     <td>

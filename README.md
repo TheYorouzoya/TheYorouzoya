@@ -1,7 +1,5 @@
 # Hi 👋, I'm Ratnesh!
 
-I'm teaching myself software development through online resources... because computers are cool, I guess. I mean, really, tens of thousands of transistors squeezed onto the width of a human hair, on a chip that can compute billions of instructions per second. Amazing stuff!
-
 ⏱️ What I'm working on right now:
 - 🚀 A personal portfolio website
 - 📁 [LeetCode 75 (50/75)](https://leetcode.com/u/TheYorouzoya)

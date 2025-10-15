@@ -2,7 +2,7 @@
 
 ⏱️ What I'm working on right now:
 - 🚀 A personal portfolio website
-- 📁 [LeetCode 75 (50/75)](https://leetcode.com/u/TheYorouzoya)
+- 📁 Weekly coding contests @ Leetcode and Code360
 - 💬 Rolling an HTTP server from scratch in go at [Boot.dev](https://www.boot.dev/courses/learn-http-protocol-golang)
 
 🎓 [Coursework](https://github.com/TheYorouzoya/CS-Coursework) I've done so far

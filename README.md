@@ -1,9 +1,8 @@
 # Hi 👋, I'm Ratnesh!
 
-⏱️ What I'm working on right now:
-- 🚀 A personal portfolio website
-- 📁 Weekly coding contests @ Leetcode and Code360
-- 💬 Rolling an HTTP server from scratch in go at [Boot.dev](https://www.boot.dev/courses/learn-http-protocol-golang)
+Currently developing @[Screener.in](https://www.screener.in/).
+
+Dev account: [ratnesh-screener](https://github.com/ratnesh-screener)
 
 🎓 [Coursework](https://github.com/TheYorouzoya/CS-Coursework) I've done so far
 
